@@ -1,4 +1,5 @@
 # COMP301 Fall22 Project 2
+Koc University Programming Language Concepts class project.
 
 #### Description
 Expanding MYLET language to support lists, rational numbers (using pairs), operations of addition, multiplication, division, and subtraction for both integers and rational numbers, and finally the rational simplification operation.
